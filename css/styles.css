@@ -1,0 +1,13 @@
+body {
+  background-color: #484c89;
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contenido h1{
+    color: #fafafa;
+}
+
+
